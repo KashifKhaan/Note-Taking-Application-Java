@@ -1,6 +1,6 @@
-# Note Taking Application
+# Note-Taking Application
 
-The Note Taking Application is a Java Swing-based desktop application that allows users to create and manage notes. It provides a simple and user-friendly interface where users can add, delete, and favorite notes.
+The Note-Taking Application is a Java Swing-based desktop application that allows users to create and manage notes. It provides a simple and user-friendly interface where users can add, delete and favorite notes.
 
 ## Screenshots
 
@@ -9,7 +9,7 @@ The Note Taking Application is a Java Swing-based desktop application that allow
 
 ## Getting Started
 
-To run the Note Taking Application, you need to have Java installed on your system. Follow the steps below to set up and run the application:
+To run the Note-Taking Application, you need to have Java installed on your system. Follow the steps below to set up and run the application:
 
 1. Clone the repository or download the source code.
 
@@ -57,18 +57,18 @@ You can customize the Note Taking Application to suit your preferences. Here are
 
 ## Contributing
 
-Contributions to the Note Taking Application are welcome. If you find any bugs, have suggestions for improvements, or would like to add new features, please submit a pull request or open an issue on the project repository.
+Contributions to the Note-Taking Application are welcome. If you find any bugs, have suggestions for improvements, or would like to add new features, please submit a pull request or open an issue on the project repository.
 
 To contribute, please follow these steps:
 
 - Fork the repository.
 - Create a new branch for your feature: git checkout -b feature/my-feature.
-- Make the necessary changes and commit them: git commit -m 'Add some feature'.
+- Make the necessary changes and commit them: git commits -m 'Add some feature'.
 - Push the changes to your branch: git push origin feature/my-feature.
 - Submit a pull request detailing your changes.
 
 ## License
-There's no rights reserved for this project, You are free to include it in original form or modified with or without additional modification in your own project
+There are no rights reserved for this project, You are free to include it in its original form or modified with or without additional modification in your own project
 
 ## Acknowledgments
 
