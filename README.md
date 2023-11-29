@@ -1,6 +1,6 @@
 # Note-Taking Application
 
-The Note-Taking Application is a Java Swing-based desktop application that allows users to create and manage notes. It provides a simple and user-friendly interface where users can add, delete and favorite notes.
+The Note-Taking Application is a Java Swing-based desktop application that allows users to create and manage notes. It provides a simple and user-friendly interface where users can add, delete, and favorite notes.
 
 ## Screenshots
 
@@ -68,7 +68,7 @@ To contribute, please follow these steps:
 - Submit a pull request detailing your changes.
 
 ## License
-There are no rights reserved for this project, You are free to include it in its original form or modified with or without additional modification in your own project
+There are no rights reserved for this project, You are free to include it in its original form or modify it with or without additional modification in your own project
 
 ## Acknowledgments
 
